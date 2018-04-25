@@ -1,0 +1,6 @@
+{
+  "subfolder1/subfolder2/build/another_css.css": "http://192.168.145.129:8081/subfolder1/subfolder2/build/another_css.css",
+  "subfolder1/subfolder2/build/images/enf.png": "http://192.168.145.129:8081/subfolder1/subfolder2/build/images/enf.0beba0da.png",
+  "subfolder1/subfolder2/build/main.js": "http://192.168.145.129:8081/subfolder1/subfolder2/build/main.js",
+  "subfolder1/subfolder2/build/style.css": "http://192.168.145.129:8081/subfolder1/subfolder2/build/style.css"
+}
